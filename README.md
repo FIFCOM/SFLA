@@ -48,4 +48,72 @@
   <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d2.PNG">  
 </p>
 
+* **3. Improve account information.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d3.PNG">  
+</p>
 
+* **4. Get the certificate file.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d4.PNG">  
+</p>
+
+* **5. Copy certificate content.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d5.PNG">  
+</p>
+
+* **6. Run SFLA_Server.exe and Login**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d6.PNG">  
+</p>
+
+* **7. Select SFLA Register (2).**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d7.PNG">  
+</p>
+
+* **8. Paste the certificate content.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d8.PNG">  
+</p>
+
+* **9. Save this file.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d9.PNG">  
+</p>
+
+* **10. Press any key.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d10.PNG">  
+</p>
+
+* **11. ...and you can see account information.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d11.PNG">  
+</p>
+
+* **12. You can use SFLA Viewer to query account information.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d12.PNG">  
+</p>
+
+* **13. Upload "key" file(s) to your server.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d13.PNG">  
+</p>
+
+* **14. Run SFLA_Launcher.exe and Login.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d14.PNG">  
+</p>
+
+* **15. Entered password.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d15.PNG">  
+</p>
+
+* **16. Login Successful!**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d16.PNG">  
+</p>

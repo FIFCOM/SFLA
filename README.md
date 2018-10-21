@@ -35,3 +35,14 @@
 * **Windows 8.1**
 
 * **Windows 10**
+
+### DEMO ON LOCALHOST
+
+* **1. Run SFLA_Register.exe**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d1.png">  
+</p>
+* **2. Fill in the username and password.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d2.png">  
+</p>

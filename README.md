@@ -4,7 +4,7 @@
 
 <h1 align="center">STATIC FILES LOGIN AUTHENTICATION v2.0</h1>
 <p align="center">
-      A safe, convenient, fast and lightweight login authentication module for batch. </br> 一个安全 便捷 快速 轻量的登录认证模块 
+      A safe, convenient, fast and lightweight login authentication module for batch.  
 </p>
 
 <p align="center">

@@ -13,7 +13,7 @@
  
 </p>
 
-### PREREQUISITES (Please confirm that you have installed one)
+### PREREQUISITES (Please confirm that your server have installed one)
 
 * IIS 7 And above
 * Nginx-1.12

@@ -40,9 +40,12 @@
 
 * **1. Run SFLA_Register.exe**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d1.png">  
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d1.PNG">  
 </p>
+
 * **2. Fill in the username and password.**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d2.png">  
+  <img src="https://raw.githubusercontent.com/FIFCOM/SFLA/master/img/d2.PNG">  
 </p>
+
+
